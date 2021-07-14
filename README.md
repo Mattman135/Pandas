@@ -1,2 +1,2 @@
 # Pandas
-Pandas introduction
+Pandas introduction and more.
